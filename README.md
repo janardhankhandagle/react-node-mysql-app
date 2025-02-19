@@ -83,5 +83,5 @@ npm start
 cd ../frontend
 npm start
 
-🌟 Let me know if you’d like to add more explanations or setup instructions!
+
 
